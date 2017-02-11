@@ -1,5 +1,5 @@
 {
-    "name" : "jbmchd/dherrorlogging",
+    "name" : "jbmchd/zf-dherrorlogging",
     "description" : "Full featured error logging module for ZF2/ZF3 application",
     "type" : "library",
     "keywords": [
